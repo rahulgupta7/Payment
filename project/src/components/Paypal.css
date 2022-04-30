@@ -1,0 +1,13 @@
+.financial-institutes__logo img {
+    height: 80px;
+    width: 80px;
+}
+
+.financial-institutes li {
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+
+.item4 {
+    border-radius: 40px;
+}
